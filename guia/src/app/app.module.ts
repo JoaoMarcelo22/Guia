@@ -16,3 +16,4 @@ import { AppComponent } from './app.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+//https://consolelog.com.br/configurar-bootstrap-angular-dropdown-tooltip/ instalação do bootstrap
